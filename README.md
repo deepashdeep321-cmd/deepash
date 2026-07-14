@@ -103,7 +103,3 @@ Repository: [GitHub Repository]
 
 <h3 align="center">Thanks for visiting my profile!</h3>
 <p align="center">If you like my work, consider giving a ⭐ to my repositories and connecting with me.</p>
-
-```
-
-Would you like me to help customize the placeholder values in this code with your actual social links, tech stack, or project URLs?

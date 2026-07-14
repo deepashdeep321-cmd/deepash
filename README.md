@@ -1,105 +1,67 @@
-``` markdown
-<h1 align="center">Hi <h3 align="center"> I'm [Your Name]</h1> Full Stack Web Developer | Passionate Problem Solver | Building Modern Web Experiences </h3>
-<p align="center">
-<img src="[link removed]!" />
-</p>
+<div data-importer="image" align="center">
+  <img data-importer="image" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
-## About Me
-I'm a **Full Stack Web Developer** passionate about creating responsive and user-friendly web applications.
-I enjoy turning ideas into real-world projects.
-Currently learning **Next.js, TypeScript, and Cloud Technologies**.
-Open to collaborating on exciting web development and open-source projects.
-Always exploring modern technologies and best development practices.
-Fun Fact: **I love solving coding challenges and building useful applications.**
+###
 
-## Connect With Me
-<p align="left">
-<a href="[LinkedIn URL]">
-<img src="[link removed]"/>
-</a>
-<a href="[Portfolio URL]">
-<img src="[link removed]"/>
-</a>
-<a href="mailto:[Email Address]">
-<img src="[link removed]"/>
-</a>
-</p>
+<div data-importer="socials" align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+</div>
 
-# Tech Stack
-<p align="center">
-<img src="[link removed]"/>
-</p>
+###
 
-# Featured Projects
-## Portfolio Website
-Modern personal portfolio showcasing projects, skills, and experience.
-**Tech Stack**
-`HTML CSS` `JavaScript` `React`
-Live Demo: [Portfolio URL]
-Repository: [GitHub Repository]
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+</div>
 
-## E-Commerce Website
-A responsive online shopping platform with authentication and cart functionality.
-**Tech Stack**
-`React` `Node.js` `Express` `MongoDB`
-Live Demo: [Project URL]
-Repository: [GitHub Repository]
+###
 
-## Task Management App
-A productivity application to organize daily tasks with authentication.
-**Tech Stack**
-`React` `Firebase` `Tailwind CSS`
-Live Demo: [Project URL]
-Repository: [GitHub Repository]
+<h1 data-importer="text" align="center">hey there 👋</h1>
 
-# GitHub Stats
-<p align="center">
-<img height="170" src="[link removed][GitHubUsername]&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="[link removed][GitHubUsername]&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+###
 
-# GitHub Streak
-<p align="center">
-<img src="[link removed][GitHubUsername]&theme=tokyonight&hide_border=true"/>
-</p>
+<h3 data-importer="text" align="left">👩‍💻  About Me</h3>
 
-# Contribution Graph
-<p align="center">
-<img src="[link removed][GitHubUsername]&theme=tokyo-night"/>
-</p>
+###
 
-# GitHub Trophies
-<p align="center">
-<img src="[link removed][GitHubUsername]&theme=tokyonight&no-frame=true&margin-w=10"/>
-</p>
+<p data-importer="text" align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
 
-# Currently Working On
-* Building full-stack web applications.
-* Learning advanced React ecosystem.
-* Exploring cloud deployment and DevOps.
-* Improving responsive UI/UX design.
+###
 
-# Currently Learning
-* TypeScript
-* Next.js
-* Docker
-* AWS
-* System Design
-* Backend Architecture
+<h3 data-importer="text" align="left">🛠 Language and tools</h3>
 
-# Goals for 2025
-* Contribute to Open Source
-* Build SaaS Applications
-* Master Full Stack Development
-* Learn Cloud Computing
-* Grow My Developer Portfolio
+###
 
-# Favorite Quote
-> "Code is like humor. When you have to explain it, it's bad." - Cory House
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+</div>
 
-<p align="center">
-<img src="[link removed][GitHubUsername]&label=Profile+Views&color=0e75b6&style=flat"/>
-</p>
+###
 
-<h3 align="center">Thanks for visiting my profile!</h3>
-<p align="center">If you like my work, consider giving a ⭐ to my repositories and connecting with me.</p>
+<h3 data-importer="text" align="left">🔥   My Stats :</h3>
+
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
